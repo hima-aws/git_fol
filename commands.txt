@@ -1,0 +1,7 @@
+commands learned:
+git init  --> strt git
+git status
+git add
+git commit -m "message:
+git logs
+git diff
